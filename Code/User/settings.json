@@ -34,7 +34,7 @@
     "explorer.openEditors.visible": 0,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "window.openFoldersInNewWindow": "on",
     "editor.minimap.renderCharacters": false,
-    "editor.folding": false
+    "editor.folding": false,
+    "window.newWindowDimensions": "maximized"
 }
