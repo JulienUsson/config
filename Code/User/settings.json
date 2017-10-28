@@ -22,9 +22,19 @@
         "pickerGroup.foreground": "#C6FF00",
         "tab.activeBorder": "#C6FF00"
     },
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
     "editor.renderWhitespace": "all",
     "javascript.format.insertSpaceAfterConstructor": true,
-    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "files.eol": "\n",
+    "search.useIgnoreFilesByDefault": true,
+    "explorer.openEditors.visible": 0,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "window.openFoldersInNewWindow": "on",
+    "editor.minimap.renderCharacters": false,
+    "editor.folding": false
 }
