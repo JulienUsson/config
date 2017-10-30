@@ -12,5 +12,9 @@
     {
         "key": "ctrl+o",
         "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "tab",
+        "command": "editor.emmet.action.expandAbbreviation"
     }
 ]
